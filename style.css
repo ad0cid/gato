@@ -1,0 +1,20 @@
+h1{
+	margin: 10% 0 10% 0;
+}
+h2{
+	margin: 5% 0 5% 0;
+}
+table {
+	width: 80%;
+	margin: auto;
+	align:center;
+}
+table, tr, td {
+	border: solid 1px black;
+}
+th, td {
+    padding: 5%;
+}
+td{
+	text-align: center;
+}
